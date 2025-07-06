@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions/>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+	g_form.setVariablesReadOnly(true);
+
+}]]></script_true>
+        <set_values/>
+        <short_description>Make variables and form ReadOnly</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-06 19:18:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>88135e8ac3662210218ebecdd40131c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Make variables and form ReadOnly</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Book a Car" source="x_1097479_book_a_0">1648c974c3662210218ebecdd401318f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Book a Car">1648c974c3662210218ebecdd401318f</sys_scope>
+        <sys_update_name>sys_ui_policy_88135e8ac3662210218ebecdd40131c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-06 19:18:10</sys_updated_on>
+        <table>x_1097479_book_a_0_booking</table>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_ui_policy>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>88135e8ac3662210218ebecdd40131c5</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-06 19:18:09</sys_created_on>
+        <sys_id>48435e8ac3662210218ebecdd40131cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-06 19:18:09</sys_updated_on>
+        <table>sys_ui_policy</table>
+        <use_es_latest>false</use_es_latest>
+    </sys_es_latest_script>
+</record_update>

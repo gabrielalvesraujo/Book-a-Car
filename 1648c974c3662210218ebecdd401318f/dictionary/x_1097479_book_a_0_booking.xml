@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="4a141d34c3a62210218ebecdd4013104" extends="task" label="Booking" max_length="40" name="x_1097479_book_a_0_booking" type="collection">
+        <element label="End date" mandatory="true" max_length="40" name="end_date" type="glide_date_time"/>
+        <element label="Requested Vehicle" mandatory="true" max_length="32" name="requested_vehicle" reference="x_1097479_book_a_0_vehicle" reference_qual="available=true^EQ" reference_qual_condition="available=true^EQ" type="reference"/>
+        <element label="Delivered" max_length="40" name="delivered" type="boolean"/>
+        <element label="Start date" mandatory="true" max_length="40" name="start_date" type="glide_date_time"/>
+    </element>
+</database>

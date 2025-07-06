@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Imp Tmpl X 1097479 Book A 0 Vehicle</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>u_imp_tmpl_x_1097479_book_a_0_vehicle</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">e85524f35d3122104f34969735a7ad38</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-06 19:55:32</sys_created_on>
+        <sys_id>77cb924ac3a62210218ebecdd4013107</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imp Tmpl X 1097479 Book A 0 Vehicle</sys_name>
+        <sys_package display_value="Book a Car" source="x_1097479_book_a_0">1648c974c3662210218ebecdd401318f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Book a Car">1648c974c3662210218ebecdd401318f</sys_scope>
+        <sys_update_name>sys_db_object_77cb924ac3a62210218ebecdd4013107</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-06 19:55:32</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Book a Car">1648c974c3662210218ebecdd401318f</application>
+        <file_path/>
+        <instance_id>fd6b8a371ba6bdd4c84543f4bd4bcb5c</instance_id>
+        <instance_name>dev222465</instance_name>
+        <name>sys_db_object_77cb924ac3a62210218ebecdd4013107</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>Imp Tmpl X 1097479 Book A 0 Vehicle</label><live_feed_enabled>false</live_feed_enabled><name>u_imp_tmpl_x_1097479_book_a_0_vehicle</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">e85524f35d3122104f34969735a7ad38</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-06 19:55:32</sys_created_on><sys_id>77cb924ac3a62210218ebecdd4013107</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Imp Tmpl X 1097479 Book A 0 Vehicle</sys_name><sys_package display_value="Book a Car" source="x_1097479_book_a_0">1648c974c3662210218ebecdd401318f</sys_package><sys_policy/><sys_scope display_value="Book a Car">1648c974c3662210218ebecdd401318f</sys_scope><sys_update_name>sys_db_object_77cb924ac3a62210218ebecdd4013107</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-06 19:55:32</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-1259957010</payload_hash>
+        <record_name>Imp Tmpl X 1097479 Book A 0 Vehicle</record_name>
+        <reverted_from/>
+        <source>1a48c974c3662210218ebecdd40131a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-06 19:55:34</sys_created_on>
+        <sys_id>88db924ac3a62210218ebecdd4013174</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197e14ee6910000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-06 19:55:34</sys_updated_on>
+        <type>Table</type>
+        <update_guid>ccdb924af9a622105aa74b950bf22f73</update_guid>
+        <update_guid_history>ccdb924af9a622105aa74b950bf22f73:-1259957010</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-06 20:31:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>0e2af0f5bae44f448658cb4834055259</sys_id>
+        <sys_metadata>77cb924ac3a62210218ebecdd4013107</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imp Tmpl X 1097479 Book A 0 Vehicle</sys_name>
+        <sys_package display_value="Book a Car" source="x_1097479_book_a_0">1648c974c3662210218ebecdd401318f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Book a Car">1648c974c3662210218ebecdd401318f</sys_scope>
+        <sys_scope_delete display_value="">1c8114636855445c8a649695238bfcf9</sys_scope_delete>
+        <sys_update_name>sys_db_object_77cb924ac3a62210218ebecdd4013107</sys_update_name>
+        <sys_update_version display_value="sys_db_object_77cb924ac3a62210218ebecdd4013107">88db924ac3a62210218ebecdd4013174</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-06 20:31:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

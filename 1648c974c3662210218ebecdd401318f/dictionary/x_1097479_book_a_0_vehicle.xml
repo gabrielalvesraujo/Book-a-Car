@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f622d1b0c3a62210218ebecdd40131fe" label="Vehicle" max_length="40" name="x_1097479_book_a_0_vehicle" type="collection">
+        <element label="License Plate" max_length="40" name="license_plate" type="string"/>
+        <element choice="1" label="Make" max_length="40" name="make" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Chevrolet" sequence="0" value="chevrolet"/>
+                <element inactive_on_update="false" label="Fiat" sequence="1" value="fiat"/>
+                <element inactive_on_update="false" label="Ford" sequence="2" value="ford"/>
+                <element inactive_on_update="false" label="Hyundai" sequence="3" value="hyundai"/>
+            </choice>
+        </element>
+        <element label="Picture" max_length="40" name="picture" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element display="true" label="Model" max_length="40" name="model" type="string"/>
+        <element label="Available" max_length="40" name="available" type="boolean"/>
+        <element label="Observations" max_length="500" name="observations" type="string"/>
+    </element>
+</database>

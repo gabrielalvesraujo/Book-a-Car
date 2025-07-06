@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="8f961138c3a62210218ebecdd401314a" sys_domain="global" table="x_1097479_book_a_0_booking" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-06 19:12:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44f1d24ac3662210218ebecdd4013150</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1097479_book_a_0_booking" name="x_1097479_book_a_0_booking" sys_domain="global" view="Default view">8f961138c3a62210218ebecdd401314a</sys_ui_form>
+            <sys_ui_section caption="Booking" display_value="Booking" name="x_1097479_book_a_0_booking" sys_domain="global" view="Default view">84f1d24ac3662210218ebecdd4013120</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-06 19:12:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-02 17:40:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b961138c3a62210218ebecdd40131d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1097479_book_a_0_booking" name="x_1097479_book_a_0_booking" sys_domain="global" view="Default view">8f961138c3a62210218ebecdd401314a</sys_ui_form>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_1097479_book_a_0_booking" sys_domain="global" view="Default view">8b961138c3a62210218ebecdd4013149</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-02 17:40:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-03 17:57:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5f3ea41c3e22210218ebecdd4013133</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1097479_book_a_0_booking" name="x_1097479_book_a_0_booking" sys_domain="global" view="Default view">8f961138c3a62210218ebecdd401314a</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_1097479_book_a_0_booking" sys_domain="global" view="Default view">e1f3ea41c3e22210218ebecdd401312f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-03 17:57:14</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-06 19:14:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2172de4ac3662210218ebecdd40131ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1097479_book_a_0_booking" name="x_1097479_book_a_0_booking" sys_domain="global" view="Default view">8f961138c3a62210218ebecdd401314a</sys_ui_form>
+            <sys_ui_section caption="Form and Variables Inputs" display_value="Form and Variables Inputs" name="x_1097479_book_a_0_booking" sys_domain="global" view="Default view">6572de4ac3662210218ebecdd40131eb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-06 19:14:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1097479_book_a_0_booking</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-02 17:40:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8f961138c3a62210218ebecdd401314a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1097479_book_a_0_booking</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Book a Car" source="x_1097479_book_a_0">1648c974c3662210218ebecdd401318f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Book a Car">1648c974c3662210218ebecdd401318f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_8f961138c3a62210218ebecdd401314a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-02 17:40:48</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

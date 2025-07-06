@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1097479_book_a_0_vehicle">x_1097479_book_a_0_vehicle</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>VHC</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-02 17:21:24</sys_created_on>
+        <sys_id>762215b0c3a62210218ebecdd4013125</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VHC</sys_name>
+        <sys_package display_value="Book a Car" source="x_1097479_book_a_0">1648c974c3662210218ebecdd401318f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Book a Car">1648c974c3662210218ebecdd401318f</sys_scope>
+        <sys_update_name>sys_number_762215b0c3a62210218ebecdd4013125</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-02 17:21:24</sys_updated_on>
+    </sys_number>
+</record_update>

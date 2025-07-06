@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Book a car">9f7719cec3222210218ebecdd401319b</catalog_item>
+        <catalog_variable>IO:b6fd1dc6c3622210218ebecdd40131fe</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-06 16:13:00</sys_created_on>
+        <sys_id>57a8e106c3a22210218ebecdd40131e9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>description</sys_name>
+        <sys_package display_value="Book a Car" source="x_1097479_book_a_0">1648c974c3662210218ebecdd401318f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Book a Car">1648c974c3662210218ebecdd401318f</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_57a8e106c3a22210218ebecdd40131e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-06 16:14:27</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Apenas exibe o more information quando for preenchido o campo &quot;pra que voce precisa&quot;">16276506c3a22210218ebecdd4013146</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>description</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=57a8e106c3a22210218ebecdd40131e9"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Book a Car">1648c974c3662210218ebecdd401318f</application>
+        <file_path/>
+        <instance_id>fd6b8a371ba6bdd4c84543f4bd4bcb5c</instance_id>
+        <instance_name>dev222465</instance_name>
+        <name>catalog_ui_policy_action_57a8e106c3a22210218ebecdd40131e9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Book a car">9f7719cec3222210218ebecdd401319b</catalog_item><catalog_variable>IO:b6fd1dc6c3622210218ebecdd40131fe</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><field_message/><field_message_type>none</field_message_type><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-06 16:13:00</sys_created_on><sys_id>57a8e106c3a22210218ebecdd40131e9</sys_id><sys_mod_count>1</sys_mod_count><sys_name>description</sys_name><sys_package display_value="Book a Car" source="x_1097479_book_a_0">1648c974c3662210218ebecdd401318f</sys_package><sys_policy/><sys_scope display_value="Book a Car">1648c974c3662210218ebecdd401318f</sys_scope><sys_update_name>catalog_ui_policy_action_57a8e106c3a22210218ebecdd40131e9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-06 16:14:27</sys_updated_on><table/><ui_policy display_value="Apenas exibe o more information quando for preenchido o campo &quot;pra que voce precisa&quot;">16276506c3a22210218ebecdd4013146</ui_policy><value/><value_action>ignore</value_action><variable>description</variable><variable_set/><visible>false</visible></catalog_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=57a8e106c3a22210218ebecdd40131e9"/></record_update>]]></payload>
+        <payload_hash>-456977503</payload_hash>
+        <record_name>description</record_name>
+        <reverted_from/>
+        <source>1a48c974c3662210218ebecdd40131a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-06 16:14:27</sys_created_on>
+        <sys_id>5139ad86c3a22210218ebecdd4013183</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197e08479530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-06 16:14:27</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>1939ad867ba22210e691491c16231582</update_guid>
+        <update_guid_history>1939ad867ba22210e691491c16231582:-456977503,c4e8a58653a2221020de67563ba076fd:828061406</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="description">bf9965c6c3a22210218ebecdd401319f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-06 16:16:16</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>1a3433e86cd4441ab7df64eab89a1bd1</sys_id>
+        <sys_metadata>57a8e106c3a22210218ebecdd40131e9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>description</sys_name>
+        <sys_package display_value="Book a Car" source="x_1097479_book_a_0">1648c974c3662210218ebecdd401318f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Book a Car">1648c974c3662210218ebecdd401318f</sys_scope>
+        <sys_scope_delete display_value="">1c8114636855445c8a649695238bfcf9</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_57a8e106c3a22210218ebecdd40131e9</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_57a8e106c3a22210218ebecdd40131e9">5139ad86c3a22210218ebecdd4013183</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-06 16:16:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

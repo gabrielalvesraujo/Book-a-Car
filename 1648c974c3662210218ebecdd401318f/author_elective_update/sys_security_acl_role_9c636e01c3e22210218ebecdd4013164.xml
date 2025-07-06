@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-03 17:54:55</sys_created_on>
+        <sys_id>9c636e01c3e22210218ebecdd4013164</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1097479_book_a_0.user</sys_name>
+        <sys_package display_value="Book a Car" source="x_1097479_book_a_0">1648c974c3662210218ebecdd401318f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Book a Car">1648c974c3662210218ebecdd401318f</sys_scope>
+        <sys_security_acl display_value="">ef536201c3e22210218ebecdd40131a8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9c636e01c3e22210218ebecdd4013164</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-03 17:54:55</sys_updated_on>
+        <sys_user_role display_value="x_1097479_book_a_0.user" name="x_1097479_book_a_0.user">ee48c974c3662210218ebecdd40131aa</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Book a Car">1648c974c3662210218ebecdd401318f</application>
+        <file_path/>
+        <instance_id>fd6b8a371ba6bdd4c84543f4bd4bcb5c</instance_id>
+        <instance_name>dev222465</instance_name>
+        <name>sys_security_acl_role_9c636e01c3e22210218ebecdd4013164</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-03 17:54:55</sys_created_on><sys_id>9c636e01c3e22210218ebecdd4013164</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.x_1097479_book_a_0.user</sys_name><sys_package display_value="Book a Car" source="x_1097479_book_a_0">1648c974c3662210218ebecdd401318f</sys_package><sys_policy/><sys_scope display_value="Book a Car">1648c974c3662210218ebecdd401318f</sys_scope><sys_security_acl display_value="">ef536201c3e22210218ebecdd40131a8</sys_security_acl><sys_update_name>sys_security_acl_role_9c636e01c3e22210218ebecdd4013164</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-03 17:54:55</sys_updated_on><sys_user_role display_value="x_1097479_book_a_0.user" name="x_1097479_book_a_0.user">ee48c974c3662210218ebecdd40131aa</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1650782314</payload_hash>
+        <record_name>.x_1097479_book_a_0.user</record_name>
+        <reverted_from/>
+        <source>1a48c974c3662210218ebecdd40131a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-03 17:54:55</sys_created_on>
+        <sys_id>e763ae01c3e22210218ebecdd401318c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197d16d5e4d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-03 17:54:55</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>eb63ae015ae22210422ec17d0147808b</update_guid>
+        <update_guid_history>eb63ae015ae22210422ec17d0147808b:-1650782314</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".x_1097479_book_a_0.user">54966a45c3e22210218ebecdd4013158</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-03 18:08:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>11f250f7584b4cd9a0df6de14bfe6151</sys_id>
+        <sys_metadata>9c636e01c3e22210218ebecdd4013164</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1097479_book_a_0.user</sys_name>
+        <sys_package display_value="Book a Car" source="x_1097479_book_a_0">1648c974c3662210218ebecdd401318f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Book a Car">1648c974c3662210218ebecdd401318f</sys_scope>
+        <sys_scope_delete display_value="">1c8114636855445c8a649695238bfcf9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_9c636e01c3e22210218ebecdd4013164</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_9c636e01c3e22210218ebecdd4013164">e763ae01c3e22210218ebecdd401318c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-03 18:08:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

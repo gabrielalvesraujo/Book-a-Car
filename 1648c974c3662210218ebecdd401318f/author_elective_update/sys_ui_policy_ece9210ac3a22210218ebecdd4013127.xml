@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="DELETE">
+        <active>true</active>
+        <conditions/>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+
+}]]></script_true>
+        <set_values/>
+        <short_description>Verificar se o campo "Why do you need this car?" está preenchido, para fazer a liberação do campo "More informations".</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-06 16:20:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ece9210ac3a22210218ebecdd4013127</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Verificar se o campo "Why do you need this car?" está preenchido, para fazer a liberação do campo "More informations".</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Book a Car" source="x_1097479_book_a_0">1648c974c3662210218ebecdd401318f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Book a Car">1648c974c3662210218ebecdd401318f</sys_scope>
+        <sys_update_name>sys_ui_policy_ece9210ac3a22210218ebecdd4013127</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-06 16:20:02</sys_updated_on>
+        <table>x_1097479_book_a_0_booking</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Book a Car">1648c974c3662210218ebecdd401318f</application>
+        <file_path/>
+        <instance_id>fd6b8a371ba6bdd4c84543f4bd4bcb5c</instance_id>
+        <instance_name>dev222465</instance_name>
+        <name>sys_ui_policy_ece9210ac3a22210218ebecdd4013127</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;conditions/&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;false&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;Verificar se o campo "Why do you need this car?" está preenchido, para fazer a liberação do campo "More informations".&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-07-06 16:20:02&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;ece9210ac3a22210218ebecdd4013127&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Verificar se o campo "Why do you need this car?" está preenchido, para fazer a liberação do campo "More informations".&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Book a Car" source="x_1097479_book_a_0"&gt;1648c974c3662210218ebecdd401318f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Book a Car"&gt;1648c974c3662210218ebecdd401318f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_ece9210ac3a22210218ebecdd4013127&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-07-06 16:20:02&lt;/sys_updated_on&gt;&lt;table&gt;x_1097479_book_a_0_booking&lt;/table&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1704873599</payload_hash>
+        <record_name>Verificar se o campo "Why do you need this car?" está preenchido, para fazer a liberação do campo "M</record_name>
+        <reverted_from/>
+        <source>1a48c974c3662210218ebecdd40131a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-06 16:20:02</sys_created_on>
+        <sys_id>b27ae90ac3a22210218ebecdd40131aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197e08993a90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-06 16:20:02</sys_updated_on>
+        <type>UI Policy</type>
+        <update_guid>b67ae90a4ca2221057aad1e3125151a9</update_guid>
+        <update_guid_history>b67ae90a4ca2221057aad1e3125151a9:-1704873599</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-06 16:20:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy">sys_ui_policy</sys_db_object>
+        <sys_id>515e97b35649424298ba7736274ff9e4</sys_id>
+        <sys_metadata>ece9210ac3a22210218ebecdd4013127</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Verificar se o campo "Why do you need this car?" está preenchido, para fazer a liberação do campo "More informations".</sys_name>
+        <sys_package display_value="Book a Car" source="x_1097479_book_a_0">1648c974c3662210218ebecdd401318f</sys_package>
+        <sys_parent display_value="Booking">4a141d34c3a62210218ebecdd4013104</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Book a Car">1648c974c3662210218ebecdd401318f</sys_scope>
+        <sys_scope_delete display_value="">1c8114636855445c8a649695238bfcf9</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_ece9210ac3a22210218ebecdd4013127</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_ece9210ac3a22210218ebecdd4013127">b27ae90ac3a22210218ebecdd40131aa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-06 16:20:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
