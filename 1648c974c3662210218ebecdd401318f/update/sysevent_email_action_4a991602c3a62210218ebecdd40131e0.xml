@@ -41,7 +41,7 @@
         <message_html><![CDATA[<p data-end="2019" data-start="1885"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Ol&aacute;!</span><br data-end="1903" data-start="1900"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">O ve&iacute;culo da solicita&ccedil;&atilde;o feita por [Nome do solicitante] foi devolvido com sucesso e a solicita&ccedil;&atilde;o foi finalizada</span></p>
 <ul style="list-style-position: inside;">
 <li style="font-family: arial, helvetica, sans-serif; font-size: 12pt;" data-end="1651" data-start="1506"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>Status</strong>: Reprovada</span></li>
-<li style="font-family: arial, helvetica, sans-serif; font-size: 12pt;" data-end="1651" data-start="1506"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>Aprovador</strong>: ${sys_opened_by.manager}</span></li>
+<li style="font-family: arial, helvetica, sans-serif; font-size: 12pt;" data-end="1651" data-start="1506"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>Aprovador</strong>: ${opened_by.manager}</span></li>
 <li style="font-family: arial, helvetica, sans-serif; font-size: 12pt;" data-end="1651" data-start="1506"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>Per&iacute;odo</strong>: ${start_date} at&eacute; ${end_date}</span></li>
 </ul>
 <p data-end="2019" data-start="1885"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Agradecemos pela utiliza&ccedil;&atilde;o. Qualquer ocorr&ecirc;ncia pode ser registrada ${URI_REF}.</span></p>
@@ -68,7 +68,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4a991602c3a62210218ebecdd40131e0</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Booking Request is delivered</sys_name>
         <sys_overrides/>
         <sys_package display_value="Book a Car" source="x_1097479_book_a_0">1648c974c3662210218ebecdd401318f</sys_package>
@@ -76,7 +76,7 @@
         <sys_scope display_value="Book a Car">1648c974c3662210218ebecdd401318f</sys_scope>
         <sys_update_name>sysevent_email_action_4a991602c3a62210218ebecdd40131e0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-07-06 19:46:36</sys_updated_on>
+        <sys_updated_on>2025-07-07 05:16:02</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Employee notification template">1462e7ca918a3010f877b1d70a4d6a3d</template>
         <type>email</type>

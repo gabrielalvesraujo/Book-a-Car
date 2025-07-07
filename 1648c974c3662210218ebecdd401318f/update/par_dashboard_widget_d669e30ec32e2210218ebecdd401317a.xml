@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">f728eb8ac32e2210218ebecdd401314c</canvas>
+        <component display_value="Pie">96abe7e38d8790718022c5630a92176c</component>
+        <component_props>{"selectedElements":[],"configVersion":"23.0.0-ci-SNAPSHOT","showDataLabels":false,"dataLabelsType":"both","truncationType":"end","showRegister":true,"registerPosition":"bottom","registerOrientation":"horizontal","showRegisterOnSameLine":false,"showRegisterValue":false,"legendHorizontalAlignment":"center","legendExpandToFit":false,"showRegisterPercentage":false,"colorConfig":{"type":"default"},"newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Booking","sourceType":"table","tableOrViewName":"x_1097479_book_a_0_booking","filterQuery":"","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4XzEwOTc0NzlfYm9va19hXzBfYm9va2luZzE3NTE4NTE3ODkxMDM=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"contextMenuActions":[],"headerTitle":"Booking request by state","headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4XzEwOTc0NzlfYm9va19hXzBfYm9va2luZzE3NTE4NTE3ODkxMDM=","id":"ZEdGaWJHVjRYekV3T1RjME56bGZZbTl2YTE5aFh6QmZZbTl2YTJsdVp6RTNOVEU0TlRFM09Ea3hNRE09MTc1MTg1MTc5MTE5Mg==","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"groupBy":[{"dataSource":"dGFibGV4XzEwOTc0NzlfYm9va19hXzBfYm9va2luZzE3NTE4NTE3ODkxMDM=","groupByField":"state","isRange":false,"isChoice":true,"isPaBucket":false}],"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"disableRanges":false}],"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"componentId":"fbbasfg0","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":null,"hideDevSettings":false,"configPropModifiers":{},"filterConfigurations":"@state.parFilters","showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"dateFormat":"default","showRefresh":true,"id":"headerTitle","value":"Booking request by state","noDebounce":true,"propLabel":"Chart title"}</component_props>
+        <h>15</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-07 01:34:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d669e30ec32e2210218ebecdd401317a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Book a Car" source="x_1097479_book_a_0">1648c974c3662210218ebecdd401318f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Book a Car">1648c974c3662210218ebecdd401318f</sys_scope>
+        <sys_update_name>par_dashboard_widget_d669e30ec32e2210218ebecdd401317a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-07 01:34:36</sys_updated_on>
+        <visualization/>
+        <w>26</w>
+        <widget_props/>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>
